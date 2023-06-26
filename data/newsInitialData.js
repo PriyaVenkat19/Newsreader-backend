@@ -310,7 +310,16 @@ const newsInitialData = [
         "newsAuthor": "Lucas Adams",
         "newsLocation": "New York",
         "newsCategory": "Cinema"
-        }
+        },
+        {
+        "newsTitle":"Wrestlers Call Off Protest, Say Fight Will Continue in Court, Not on Streets",
+        "newsID":"040",
+        "newsArticle":"Wrestlers have stated that they will wait for the implementation of assurances made about WFI's reformation.",
+        "newsAuthor":"ShuvaDitya Bose",
+        "newsLocation":"New Delhi",
+        "newsCategory":"Sports"
+        },
+        
 ]
 
 module.exports = newsInitialData

@@ -1,3 +1,4 @@
+
 const newsModel = require('../models/newsModel')
 const newsInitialData = require('../data/newsInitialData')
 
